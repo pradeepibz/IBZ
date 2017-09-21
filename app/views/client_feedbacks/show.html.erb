@@ -1,0 +1,64 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>First name:</strong>
+  <%= @client_feedback.first_name %>
+</p>
+
+<p>
+  <strong>Last name:</strong>
+  <%= @client_feedback.last_name %>
+</p>
+
+<p>
+  <strong>Email:</strong>
+  <%= @client_feedback.email %>
+</p>
+
+<p>
+  <strong>Contact:</strong>
+  <%= @client_feedback.contact %>
+</p>
+
+<p>
+  <strong>Feedback:</strong>
+  <%= @client_feedback.feedback %>
+</p>
+
+<p>
+  <strong>Avatar:</strong>
+  <%= @client_feedback.avatar %>
+</p>
+
+<p>
+  <strong>Address:</strong>
+  <%= @client_feedback.address %>
+</p>
+
+<p>
+  <strong>City:</strong>
+  <%= @client_feedback.city %>
+</p>
+
+<p>
+  <strong>State:</strong>
+  <%= @client_feedback.state %>
+</p>
+
+<p>
+  <strong>Country:</strong>
+  <%= @client_feedback.country %>
+</p>
+
+<p>
+  <strong>Zipcode:</strong>
+  <%= @client_feedback.zipcode %>
+</p>
+
+<p>
+  <strong>Approved:</strong>
+  <%= @client_feedback.approved %>
+</p>
+
+<%= link_to 'Edit', edit_client_feedback_path(@client_feedback) %> |
+<%= link_to 'Back', client_feedbacks_path %>

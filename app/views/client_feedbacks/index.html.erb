@@ -1,0 +1,31 @@
+<%#= render "layouts/header" %>
+<section class="client-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center client-cover" style="padding:173px;">
+        <p id="notice"><%= notice %></p>
+        <h1>Client Feedbacks</h1>
+        <%= link_to 'New Client Feedback', new_client_feedback_path, class: "btn btn-primary" %>
+      </div>
+      <%#= render "index" %>
+    </div>
+  </div>
+</section>
+
+<div id="clientModel" class="modal fade">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close client-close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title">Thank you for your feedback.</h4>
+      </div>
+      <div class="modal-body">
+        <p><img src="../assets/slider/smile.jpg" style="width:100px;"></p>
+        <!-- <p class="text-warning"><small>If you don't save, your changes will be lost.</small></p> -->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default client-close" data-dismiss="modal">Ok</button>
+      </div>
+    </div>
+  </div>
+</div>

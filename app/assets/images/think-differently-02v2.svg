@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 150" style="enable-background:new 0 0 600 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A5BF39;}
+	.st1{fill:none;stroke:#A5BF39;stroke-width:2.776;stroke-linecap:round;stroke-miterlimit:10;}
+	
+		.st2{fill:none;stroke:#A5BF39;stroke-width:3.5773;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:0,4.2927;}
+	.st3{fill:none;stroke:#A5BF39;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#A5BF39;stroke-width:2.1464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#A5BF39;stroke-width:2.1464;stroke-linecap:round;stroke-linejoin:round;}
+	.st6{fill:none;stroke:#A5BF39;stroke-width:2.1464;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,4.3049;}
+	.st7{fill:none;stroke:#A5BF39;stroke-width:2.6663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+	<g>
+		<g>
+			<path class="st0" d="M75.3,5.4c38.3,0,69.5,31.2,69.5,69.5s-31.2,69.5-69.5,69.5S5.8,113.2,5.8,74.9S36.9,5.4,75.3,5.4 M75.3,2.4
+				c-40,0-72.5,32.5-72.5,72.5s32.5,72.5,72.5,72.5s72.5-32.5,72.5-72.5S115.3,2.4,75.3,2.4L75.3,2.4z"/>
+		</g>
+	</g>
+</g>
+<g id="Layer_2">
+	<polygon class="st3" points="74.6,109.6 105.5,98.2 105.5,55 74.4,66.1 	"/>
+	<polygon class="st3" points="74.8,109.6 44.5,98.2 44.5,55 74.4,66.1 	"/>
+	<polygon class="st3" points="74.6,42.2 105.5,53.6 105.5,96.7 74.4,85.6 	"/>
+	<polygon class="st3" points="74.8,42.2 44.5,53.6 44.5,96.7 74.4,85.6 	"/>
+	<circle class="st4" cx="103" cy="39.5" r="3.3"/>
+	<g>
+		<g>
+			<line class="st5" x1="99.9" y1="39.5" x2="99.9" y2="39.5"/>
+			<path class="st6" d="M95.6,39.9c-9.4,1.4-31.2,7.5-34.1,35.9"/>
+			<line class="st5" x1="61.3" y1="77.9" x2="61.3" y2="77.9"/>
+		</g>
+	</g>
+	<circle class="st0" cx="64.3" cy="79.6" r="1.1"/>
+	<circle class="st0" cx="64.3" cy="83" r="1.1"/>
+	<circle class="st0" cx="58.3" cy="83" r="1.1"/>
+	<circle class="st0" cx="58" cy="79.6" r="1.1"/>
+	<circle class="st0" cx="61.3" cy="84.7" r="1.1"/>
+</g>
+</svg>
